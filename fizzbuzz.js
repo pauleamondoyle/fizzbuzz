@@ -1,8 +1,10 @@
 /**
+
  * PART 0
  *
  * Write a function that calculates the sum of all the numbers in an array
  */
+// 
 
 function sumOfArray(arr){
     var sum = 0
